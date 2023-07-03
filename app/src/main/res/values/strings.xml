@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TLenguajes2023</string>
+    <string name="app_apel">Ingrese su apellido</string>
+    <string name="app_btnl">Mostrar</string>
+    <string name="app_ap">Proporcione su apellido</string>
+    <string name="app_dir">proporcione una direccion</string>
+
+
+    <string-array name="gender_options">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+
+    <string-array name="paises">
+        <item>Honduras</item>
+        <item>Mexico</item>
+        <item>Qatar</item>
+        <item>Haití</item>
+    </string-array>
+
+
+    <string-array name="posiciones">
+        <item>Portero</item>
+        <item>Central</item>
+        <item>Mediocampista</item>
+        <item>Delantero</item>
+    </string-array>
+</resources>
